@@ -1,0 +1,8 @@
+{
+    "apiGatewayBaseUrl": "",
+    "clientId": "",
+    "authority": "",
+    "postLogoutRedirectUri": "",
+    "operatorVisibilityGroups": [""],
+    "vpnManagementGroups": [""]
+}
